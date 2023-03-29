@@ -9,3 +9,10 @@ do que o que está permitido no Range de números.
 Após o usuário ultrapassar a quantidade de vezes que o programa permite jogar, é feito um bloqueio no input onde o mesmo digita os números, 
 fazendo com que seja necessário clicar no botão que faz um reload na página.
 
+<br><hr>
+
+Project made in the Javascript course! The project consists of a guessing game, where the JS generates a random number and the user has a few chances to guess it. If the user reaches the number of chances and does not match the number, the game ends and the program prints the drawn number. If the user hits the number, he receives a congratulations message.
+
+In both cases, a count is made with the number of attempts and the program has an alert if the user enters a number greater than what is allowed in the Range of numbers.
+
+After the user exceeds the number of times that the program allows to play, a block is made in the input where the user types the numbers, making it necessary to click on the button that reloads the page.
