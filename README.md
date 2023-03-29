@@ -1,4 +1,4 @@
-Projeto feito no curso de Javascript 
+Projeto feito no curso de Javascript!
 O projeto consiste em um jogo de advinhação, onde o JS gera um número randomico e o usuário tem algumas chances para adivinha-lo.
 Se o usuário atingir o número de chances e não acertar o número o jogo é finalizado e o programa imprime o número sorteado.
 Se o usuário acertar o número, recebe uma mensagem de parabéns.
